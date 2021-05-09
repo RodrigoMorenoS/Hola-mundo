@@ -1,5 +1,5 @@
-# Hola-mundo
-Mi primer repositorio de prueba
+# Hola Mundo
+Mi primer repositorio
 
 Autor: Rodrigo Daniel Moreno Seda
 Fecha: 8-Mayo-2021
